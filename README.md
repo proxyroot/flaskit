@@ -1,2 +1,2 @@
 # flaskit
-Basic Flask app with blue prints
+Basic Flask app
